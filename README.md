@@ -18,15 +18,15 @@ Tenho disciplina, dedicação e muita vontade de crescer profissionalmente na á
 ## 🛠️ Tecnologias e Estudos
 
 ### 📌 Já aprendi:
-- HTML5
-- CSS3
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" HTML5 />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" CSS3 />
 
 ### 📚 Estudando atualmente:
-- Java
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" Java />
 
 ### 🔜 Próximos passos:
-- Node.js
-- React
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" Node />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" React />
 
 ---
 
